@@ -1,15 +1,7 @@
-# py_automation - Project 001
+# py_automation
 
-## Purpose
-This python script helps to open a particular address on Googl Maps by automatically opening the browser.
+## About
+Please check differnt branches for Python Automation Projects
 
-## Execution (Terminal)
-```
-python3 auto_001_mapit.py YOUR_ADDRESS 
-```
-
-### Python Dependencies
-```
-import pyperclip, sys, webbrowser
-```
+Thank You 💻
 
