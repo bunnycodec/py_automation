@@ -15,6 +15,6 @@ python3 auto_002_combilePDF.py file1.pdf file2.pdf file3.pdf
 
 ### Python Dependencies
 ```
-import PyPDF2, sys
+pip install PyPDF2
 ```
 
