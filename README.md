@@ -10,6 +10,6 @@ python3 auto_001_mapit.py YOUR_ADDRESS
 
 ### Python Dependencies
 ```
-import pyperclip, sys, webbrowser
+pip install pyperclip
 ```
 
