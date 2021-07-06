@@ -1,15 +1,24 @@
-# py_automation - Project 001
+# py_automation - Project 003
 
 ## Purpose
-This python script helps to open a particular address on Googl Maps by automatically opening the browser.
+
+This python script can be used to open an URL with the help of Selenium WebDriver on a Brave Browser (Mac Devices).
 
 ## Execution (Terminal)
+
 ```
-python3 auto_001_mapit.py YOUR_ADDRESS 
+python3 braveBrowser.py https://www.google.com
 ```
+
+## Constraints
+
+- This scripts works with brave browser and with little changes can be used for Chrome
+- Download and install chrome webdriver
+- Brave Chromium version and webdriver version should be same
+- The above script is for mac device, windows is similar and easier
 
 ### Python Dependencies
-```
-import pyperclip, sys, webbrowser
-```
 
+```
+pip install selenium
+```
